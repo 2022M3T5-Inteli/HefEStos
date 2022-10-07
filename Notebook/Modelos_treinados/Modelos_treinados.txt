@@ -1,0 +1,4 @@
+Devido ao limite de tamanho disponível para cada arquivo no GitHub, a equipe optou por usar o Google Drive. 
+É necessário baixar todos os arquivos para o funcionamento da interface.
+ 
+Modelos treinados disponíveis em: <https://drive.google.com/drive/folders/1BDZErQKMpsnLT9qAt_wjVp6_puMR8H8V?usp=sharing>
