@@ -46,6 +46,7 @@ Para o acesso e uso da aplicação é necessário ter instalado uma IDE que supo
 * Escolha o modelo desejado;
 * É possível que seja necessário a alteração dos caminhos dos arquivos de dataset, uma vez que foram referenciados relativamente ao nosso Google Drive Compartilhado;
 * Caso se deseje o uso de um outro dataset, esse deve estar de acordo com o tratamento de dados adequado (uso de técnicas como one-hot encoding e label encoding);
+* <b> Para o uso da interação do usuário, é necessário que se tenha baixado os arquivos presentes no drive: https://drive.google.com/drive/folders/1BDZErQKMpsnLT9qAt_wjVp6_puMR8H8V?usp=sharing</b>
 
 ## 📆 Histórico de lançamentos
 
